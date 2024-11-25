@@ -1,0 +1,10 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/wp-env.json",
+  "core": null,
+  "phpVersion": "8.3",
+	"plugins": [
+		"https://downloads.wordpress.org/plugin/custom-post-type-ui.1.17.2.zip",
+    "https://downloads.wordpress.org/plugin/advanced-custom-fields.6.3.10.2.zip",
+    "./plugins/challenge-validation/"
+	]
+}
